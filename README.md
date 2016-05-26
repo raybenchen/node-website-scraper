@@ -1,5 +1,5 @@
 ## Introduction
-Download website to a local directory (including all css, images, js, etc.)
+Download website to a local directory (including all css, images, js, etc.) 
 
 [![Build Status](https://img.shields.io/travis/s0ph1e/node-website-scraper/master.svg?style=flat)](https://travis-ci.org/s0ph1e/node-website-scraper)
 [![Test Coverage](https://codeclimate.com/github/s0ph1e/node-website-scraper/badges/coverage.svg)](https://codeclimate.com/github/s0ph1e/node-website-scraper/coverage)
